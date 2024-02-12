@@ -2,15 +2,23 @@
 
 A new Flutter project.
 
-## Getting Started
+## App Preview
 
-This project is a starting point for a Flutter application.
+### click this link below to preview ↓↓↓↓
 
-A few resources to get you started if this is your first Flutter project:
+![xylophone](https://github.com/udaykiran-2732/Xylophone/assets/158430686/5f221093-f0d6-4af3-9475-8f9cb58d9ec9)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### What I have learnt from this project(App)
+---
++ How to incorporate open source libraries of code into your project using Flutter Packages.
++ How to play sound on both iOS and Android.
++ How to generate repeated user interface Widgets.
++ How to use dart functions efficiently
++ How to use Dart functions that can take input arguments as well as return an output.
++ Dart arrow syntax for writing one line functions.
+---
+*connect with me on instagram* >>  [udaykiran2732](https://www.instagram.com/udaykiran2732?igsh=MWtsM2lhYmY1anliag==)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
